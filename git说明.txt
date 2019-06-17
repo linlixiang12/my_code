@@ -18,4 +18,4 @@ git branch div;创建分支;后面的div是分支名字;
 git branch;查看分支
 git checkout dev;选则创建的分支;
 
-这里是二次修改22点40分
+完成了div中功能的提交;
