@@ -1,0 +1,6 @@
+Initialized empty Git repository in C:/Users/Administrator/Desktop/myproject/.git/
+git init 初始化git仓库;
+git config --global user.name "名字";配置用户名字
+git config --global user.email "xxxxxx@.com";配置用户邮箱;
+git add ./readme.html; //把代码放到房间;
+git commit -m "我们完成了第一个功能" 提交 并说明;
