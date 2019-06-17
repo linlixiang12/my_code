@@ -17,5 +17,5 @@ git refog ;查看之前的操作记录;
 git branch div;创建分支;后面的div是分支名字;
 git branch;查看分支
 git checkout dev;选则创建的分支;
-
+git merge div;当前的用户代码和选择的用户名合并;
 完成了div中功能的提交;
