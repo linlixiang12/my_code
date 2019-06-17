@@ -9,4 +9,13 @@ git commit --all -m "一次性上传不用放到仓库门口"
 git add ./;把所有修改过的代码放入等待队列;
 git log ;查看历史提交日志;
 git reset --hard Head~1;回退代码提交时的状态
+git reset --hard 版本号;
+git refog ;查看之前的操作记录;
+
+当功能开发一半又想保存备份;又不能影响之前功能的完整性;如下
+
+git branch div;创建分支;后面的div是分支名字;
+git branch;查看分支
+git checkout dev;选则创建的分支;
+
 这里是二次修改22点40分
